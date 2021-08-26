@@ -2,7 +2,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Dilshan Maduranga Perera Python Django developer currently working at <a href="https://www.ilabs.lk">@iLabs :octocat:</a>. Graduated from SLIIT Sri Lanka :india:
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Dilshan Maduranga Perera Python Django developer currently working at <a href="https://www.ilabs.lk">@iLabs :octocat:</a>. Graduated from SLIIT Sri Lanka 🇱🇰:
   </samp>
 </p>
 
